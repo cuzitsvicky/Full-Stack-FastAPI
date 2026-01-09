@@ -1,4 +1,4 @@
-# Telusko Trac - Product Inventory Management System
+# Vicky Product Tracker - Product Inventory Management System
 
 A full-stack web application for managing product inventory with a FastAPI backend and React frontend.
 
